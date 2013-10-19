@@ -1,0 +1,10 @@
+name:               "robertmetzger.de"
+markdown:           redcarpet
+pygments:           true
+timezone:           "Europe/Berlin"
+safe:               true
+lsi:                false
+
+# see https://github.com/mojombo/jekyll/issues/332
+baseurl:            ""
+
